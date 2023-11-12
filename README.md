@@ -79,10 +79,6 @@ my_grid.delete_symbol(2, 2)
 my_grid.draw_grid()
 ```
 
-## Contributing
-
-Feel free to contribute by opening issues or submitting pull requests. Please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
