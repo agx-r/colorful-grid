@@ -10,7 +10,6 @@ A simple Python module for creating and manipulating a grid with colored symbols
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
