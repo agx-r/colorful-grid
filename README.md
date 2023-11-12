@@ -2,6 +2,8 @@
 
 A simple Python module for creating and manipulating a grid with colored symbols.
 
+![Colorful Grid](https://github.com/agx-r/colorful-grid/pic.jpg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
